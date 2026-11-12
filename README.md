@@ -32,7 +32,7 @@ Users can also search for weather information by city name and explore hourly, w
 
 | Home Screen | Hourly Forecast | Weekly Forecast |
 |---|---|---|
-| <img width="608" height="1280" alt="image" src="https://github.com/user-attachments/assets/97de908e-16d8-4a20-ac45-2447cad64e46" /> | <img width="720" height="422" alt="image" src="https://github.com/user-attachments/assets/3de278bb-76a3-49a0-ac8a-7a69d00ffe8b" /> | <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/ca339fa9-7f43-4fa1-95c0-df2d47bb3d26" /> |
+| <img width="608" height="1280" alt="image" src="https://github.com/user-attachments/assets/97de908e-16d8-4a20-ac45-2447cad64e46" /> | <img width="720" height="422" alt="image" src="https://github.com/user-attachments/assets/3de278bb-76a3-49a0-ac8a-7a69d00ffe8b" /> <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/ca339fa9-7f43-4fa1-95c0-df2d47bb3d26" /> <img width="718" height="426" alt="image" src="https://github.com/user-attachments/assets/1489abfd-df11-4832-a490-2dc6686352ea" /> <img width="718" height="422" alt="image" src="https://github.com/user-attachments/assets/5c59085c-e6f9-4edf-bb5e-147042cb3d3c" /> <img width="714" height="424" alt="image" src="https://github.com/user-attachments/assets/1b0d8f92-224e-4e7c-9e85-4f6504bc2ad8" />| <img width="612" height="1280" alt="image" src="https://github.com/user-attachments/assets/67385dce-edbc-46a2-a7d0-acae875562b1" /> <img width="603" height="1280" alt="image" src="https://github.com/user-attachments/assets/d3fe4504-acbd-4896-a8ba-f9b05d86ea7a" /> |
 
 ## 🚀 Getting Started
 
