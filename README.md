@@ -26,13 +26,32 @@ Users can also search for weather information by city name and explore hourly, w
 - Flutter Dotenv (Environment Variables)
 - Intl (Date Formatting)
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
-<!-- Add your application screenshots here -->
+Explore the app's interface and weather forecasting features.
 
-| Home Screen | Hourly Forecast | Weekly Forecast |
-|---|---|---|
-| <img width="608" height="1280" alt="image" src="https://github.com/user-attachments/assets/97de908e-16d8-4a20-ac45-2447cad64e46" /> | <img width="720" height="422" alt="image" src="https://github.com/user-attachments/assets/3de278bb-76a3-49a0-ac8a-7a69d00ffe8b" /> <img width="720" height="420" alt="image" src="https://github.com/user-attachments/assets/ca339fa9-7f43-4fa1-95c0-df2d47bb3d26" /> <img width="718" height="426" alt="image" src="https://github.com/user-attachments/assets/1489abfd-df11-4832-a490-2dc6686352ea" /> <img width="718" height="422" alt="image" src="https://github.com/user-attachments/assets/5c59085c-e6f9-4edf-bb5e-147042cb3d3c" /> <img width="714" height="424" alt="image" src="https://github.com/user-attachments/assets/1b0d8f92-224e-4e7c-9e85-4f6504bc2ad8" />| <img width="612" height="1280" alt="image" src="https://github.com/user-attachments/assets/67385dce-edbc-46a2-a7d0-acae875562b1" /> <img width="603" height="1280" alt="image" src="https://github.com/user-attachments/assets/d3fe4504-acbd-4896-a8ba-f9b05d86ea7a" /> |
+### 🏠 Home Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97de908e-16d8-4a20-ac45-2447cad64e46" width="260" alt="Weather App Home Screen"/>
+</p>
+
+### ⏰ Hourly Forecast
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3de278bb-76a3-49a0-ac8a-7a69d00ffe8b" width="32%" alt="Hourly Forecast 1"/>
+  <img src="https://github.com/user-attachments/assets/ca339fa9-7f43-4fa1-95c0-df2d47bb3d26" width="32%" alt="Hourly Forecast 2"/>
+  <img src="https://github.com/user-attachments/assets/1489abfd-df11-4832-a490-2dc6686352ea" width="32%" alt="Hourly Forecast 3"/>
+  <img src="https://github.com/user-attachments/assets/5c59085c-e6f9-4edf-bb5e-147042cb3d3c" width="32%" alt="Hourly Forecast 4"/>
+  <img src="https://github.com/user-attachments/assets/1b0d8f92-224e-4e7c-9e85-4f6504bc2ad8" width="32%" alt="Hourly Forecast 5"/>
+</p>
+
+### 📅 Weekly Forecast
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67385dce-edbc-46a2-a7d0-acae875562b1" width="260" alt="Weekly Forecast 1"/>
+  <img src="https://github.com/user-attachments/assets/d3fe4504-acbd-4896-a8ba-f9b05d86ea7a" width="260" alt="Weekly Forecast 2"/>
+</p>
 
 ## 🚀 Getting Started
 
