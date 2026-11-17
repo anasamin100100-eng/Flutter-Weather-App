@@ -4,6 +4,12 @@ A Flutter-based weather application that provides real-time weather information 
 
 Users can also search for weather information by city name and explore hourly, weekly, and historical weather forecasts.
 
+## 📥 Download APK
+
+**[Download Weather App v1.0.0 for Android](https://github.com/anasamin100100-eng/Flutter-Weather-App/releases/download/v1.0.0/app-release.apk)**
+
+Download the APK and install it on your Android device.
+
 ## ✨ Features
 
 - **GPS-Based Location Detection:** Automatically detects the user's current city and country.
